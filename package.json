@@ -1,0 +1,11 @@
+{
+  "name": "nyxshield-redeem",
+  "version": "1.0.0",
+  "description": "NyxShield AC License Redeem Panel",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "NyxShield",
+  "license": "ISC"
+}
